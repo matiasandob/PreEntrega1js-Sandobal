@@ -1,0 +1,3 @@
+Es una página web de suplementos para el gimnasio, tutor no pude hacer que el algoritmo me pase mis opciones
+de suplementos a minuscula por si alguien no escribe exactamente igual al nombre de los suplementos que están en pantalla, tambien quería intentar que los espacios no se tomen como true porque si dejas algunos espacios a la hora de poner tu nombre
+te lo toma como correcto y no es la idea. Improvisé un poco al no poder aplicar esas herramientas, pero de todas maneras intenté que sea lo más eficaz posible, un saludo tutor.
